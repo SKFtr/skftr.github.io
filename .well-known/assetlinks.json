@@ -14,5 +14,13 @@
       "package_name": "skfeatures.github.io.twa",
       "sha256_cert_fingerprints": ["50:66:91:F6:0E:92:C2:14:DC:BD:26:AC:6A:2D:89:85:35:CE:F6:00:6D:0A:E7:9A:DA:79:A9:DC:C1:1D:19:EB"]
     }
-  }
+  },
+  {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.skftr.twa",
+        "sha256_cert_fingerprints": ["5A:8E:F5:6F:B6:3D:E6:32:27:88:6D:6E:6D:EB:B8:6E:BD:05:8C:F1:BA:B1:A6:86:A2:DF:B6:4B:AF:06:46:D8"]
+      }
+    }
 ]
